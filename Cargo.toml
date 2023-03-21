@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "src/quick-protocol",
+  "src/quick-protocol-tcp",
+  "test/tcp-server",
+  "test/tcp-client"
+]
